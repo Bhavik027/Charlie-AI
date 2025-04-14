@@ -14,9 +14,9 @@ CohereAPIKey = "YOUR API KEY"
 <br>
 GroqAPIKey = "YOUR API KEY"
 <br>
-InputLanguage = en //Input Language set as english
+InputLanguage = en   //Input Language set as english
 <br>
-AssistantVoice = en-CA-LiamNeural //Output Language as English Male
+AssistantVoice = en-CA-LiamNeural   //Output Language as English Male
 <br>
 HuggingFaceAPIKey = "YOUR API KEY"
 
