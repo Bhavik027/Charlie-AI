@@ -1,0 +1,26 @@
+[project]
+name = "charlie-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "appopener~=1.7",
+    "beautifulsoup4~=4.13.3",
+    "bs4~=0.0.2",
+    "cohere~=5.14.0",
+    "edge-tts>=7.0.0",
+    "googlesearch-python>=1.3.0",
+    "groq~=0.21.0",
+    "keyboard~=0.13.5",
+    "mtranslate~=1.8",
+    "pillow>=11.1.0",
+    "pygame~=2.6.1",
+    "python-dotenv~=1.1.0",
+    "pywhatkit~=5.4",
+    "requests~=2.32.3",
+    "rich~=14.0.0",
+    "selenium~=4.30.0",
+    "user-agent>=0.1.10",
+    "webdriver-manager>=4.0.2",
+]
