@@ -6,9 +6,9 @@ To Run This Code you have to install dependencies labaled as requirements
 Before Running the Program u need to create a " .env " file and write as:
 <br>
 <br>
-Username=Bhavik Pareta
+Username= YOUR NAME
 <br>
-Assistantname = Charlie
+Assistantname = Charlie // YOUR AI NAME
 <br>
 CohereAPIKey = "YOUR API KEY"
 <br>
